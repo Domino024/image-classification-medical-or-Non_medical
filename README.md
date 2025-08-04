@@ -71,6 +71,12 @@ This project is a comprehensive solution for classifying images as "medical" or 
 You can now use the web interface to test the URL and PDF classification functionalities.
 
 ---
+## 🎬 Video Submission
+- [**Watch the full video demonstration here!**](assets/demo_video.mp4)
+
+
+
+
 ## 🖼️ Application Screenshot
 
 Here is a quick look at the web interface and RESULT for the image classifier:
