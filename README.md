@@ -73,7 +73,7 @@ You can now use the web interface to test the URL and PDF classification functio
 ---
 ## 🖼️ Application Screenshot
 
-Here is a quick look at the web interface for the image classifier:
+Here is a quick look at the web interface and RESULT for the image classifier:
 
 <img width="1078" height="909" alt="result" src="https://github.com/user-attachments/assets/f29925e5-d8e5-49af-88f0-c14b177764a7" />
 
